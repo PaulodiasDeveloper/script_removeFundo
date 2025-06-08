@@ -1,0 +1,13 @@
+
+# Dependências para remoção de fundo de imagens
+rembg>=2.0.50
+pillow>=9.0.0
+onnxruntime>=1.15.0
+
+# Dependências opcionais para melhor performance
+# onnxruntime-gpu>=1.15.0  # Descomente para usar GPU (NVIDIA)
+
+# Dependências para desenvolvimento (opcional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
